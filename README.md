@@ -1,5 +1,5 @@
 # Juego de dados
-## José Ramón Jiménez Reyes
+## Andres
 
 Debes crear un programa en java que simule un juego de dados. El juego de dados consiste en que entre 2 y 10 jugadores lanzarán un dado 5 veces y ganará o ganarán los que su puntuación haya sido la más alta.
 
